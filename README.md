@@ -44,24 +44,9 @@ Practice Labs: TryHackMe, HackTheBox
 
 Version Control: Git, GitHub, Markdown Documentation
 
-# 🚀 Featured Projects
-### 🔍 Nmap-CheatSheet
-A comprehensive collection of Nmap commands, techniques, and practical examples from hands-on experience. Includes network scanning methodologies, advanced techniques, and troubleshooting guides.
-
-### 🛡️ Burp-Suite-Notes
-Detailed documentation of Burp Suite workflows, configurations, and web application testing methodologies. Covers proxy setup, scanner usage, extension integration, and real-world testing scenarios.
-
 ## 📚 Security Learning Journey
 (Future Project) Repository documenting my cybersecurity learning path, including CTF writeups, lab notes, and skill development progress.
 
-# 📈 Certifications & Achievements
-```yaml
-Certification	      Status	                      Expected Completion
-eJPTv2	              In Progress	                  Q3 2025
-CompTIA Security+	  Studying	                      Q4 2025
-TryHackMe             Complete Beginner	              Completed	June 2025
-HackTheBox            Starting Point	              Completed	May 2025
-```
 # 🏆 Recent Accomplishments
 CTF & Lab Progress
 TryHackMe: 30+ rooms completed
