@@ -41,11 +41,11 @@ Scripting: Bash Scripting, Python (Security Scripts)
 
 Methodologies: OWASP Testing Guide, PTES, Cyber Kill Chain (In progress)
 
-AI sofware development 
+AI sofware development: Ollama, Clude. 
 
-Software testing 
+Software testing and documentation: selenium + swagger
 
-Software deployement
+Software deployement: Versel and Jenkins
 
 # 🏗️ Platforms & Environments
 
