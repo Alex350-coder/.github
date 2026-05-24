@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ander Aguirre Tejada
 
-**Cybersecurity Student | Aspiring Security Professional | Hands-On Practitioner**
+**Cybersecurity Student | Aspiring Security Professional | Hands-On Practitioner | Software development Specialist | Promt enginering | AI web development**
 
 📍 **Based in:** Cajamarca, Perú  
 📧 **Email:** anderaguirre787@gmail.com]  
@@ -15,22 +15,24 @@ LinkedIn: www.linkedin.com/in/ander-aguirre-tejada-76318333a
 ### **🎓 Certifications**
 - **eJPTv2 (eLearnSecurity Junior Penetration Tester)** - In Progress
 - **CompTIA Security+** - In Progress
+- **AI software develoment** - Certified 
 
-### **📚 Learning Path 2024**
+### **📚 Learning Path 2026**
 1. **Network Security Fundamentals** ✅
-2. **Web Application Penetration Testing** 🔄
+2. **Web Application Penetration Testing** ✅
 3. **Bash Scripting** ✅
 
 ### **🔐 Security Tools**
 ```yaml
-Reconnaissance & Scanning: Nmap
-Web Application Testing: Burp Suite, SQLMap
-Network Analysis: Wireshark, Netcat
-Vulnerability Assessment: Metasploit, Nikto
-Operating Systems: Kali Linux, Windows Security
+Reconnaissance & Scanning: Nmap, gobuster and ffuf.
+Web Application Testing: Burp Suite, SQLMap.
+Network Analysis: Wireshark, Netcat.
+Vulnerability Assessment: Metasploit, Nikto.
+Operating Systems: Kali Linux, Windows Security.
 ```
 
 # 💻 Core Technical Skills
+
 Networking: TCP/IP, OSI Model, Subnetting, Firewalls, VPNs
 
 Operating Systems: Linux Administration
@@ -39,13 +41,25 @@ Scripting: Bash Scripting, Python (Security Scripts)
 
 Methodologies: OWASP Testing Guide, PTES, Cyber Kill Chain (In progress)
 
+AI sofware development 
+
+Software testing 
+
+Software deployement
+
 # 🏗️ Platforms & Environments
-Practice Labs: TryHackMe, HackTheBox
+
+Practice Labs: TryHackMe, HackTheBox, DockerLabs and The hacker labs.
 
 Version Control: Git, GitHub, Markdown Documentation
 
+Sofware: VsCode, Antigravity, Kiro.
+
+AI: ClaudeCode, OpenCode, Ollama.
+
 ## 📚 Security Learning Journey
-(Future Project) Repository documenting my cybersecurity learning path, including CTF writeups, lab notes, and skill development progress.
+
+Repository documenting my cybersecurity learning path, including CTF writeups, lab notes, and skill development progress. Software projects with AI metologics. 
 
 # 🏆 Recent Accomplishments
 CTF & Lab Progress
@@ -53,12 +67,17 @@ TryHackMe: 30+ rooms completed
 
 HackTheBox: 15+ machines rooted, Starting Point completed
 
+Dockerlabs: 20+ machines finished. 
+
+The hacker labs: 5+ machines finished. 
+
 # Community Involvement: 
 
-Regular participant in online security communities
+Regular participant in online security communities. 
 
 # 🎯 Career Objectives
 Seeking an entry-level cybersecurity position where I can apply my technical skills, contribute to security initiatives, and grow professionally under experienced mentorship.
+Seeking and enrty-medium level sofware development position wheren i can apply my skills to develop, test and deploy diferent kind of software. 
 
 Target Roles:
 
@@ -70,7 +89,12 @@ Cybersecurity Technician
 
 Security Analyst
 
+AI sofware development. 
+
+Web development. 
+
 # Professional Goals for 2026:
+
 ✅ Complete eJPTv2 certification
 
 🔄 Build portfolio with 5+ practical security projects
@@ -78,6 +102,8 @@ Security Analyst
 📅 Secure internship or entry-level position
 
 📅 Contribute to open-source security tools
+
+📅 Contribute to open-source sofware tools with features or functionalities. 
 
 📅 Network with 50+ cybersecurity professionals
 
@@ -91,7 +117,7 @@ LinkedIn: www.linkedin.com/in/ander-aguirre-tejada-76318333a
 # Availability:
 Status: Actively seeking opportunities
 
-Location: Cajamarca, Peru | Open to Remote pentesting oportunities
+Location: Cajamarca, Peru | Open to Remote pentesting oportunities and sofware development oportunities. 
 
 # Response Time:
 📧 Email: Within 24 hours
@@ -129,7 +155,8 @@ Mentors who have guided my cybersecurity journey
 
 Family for supporting my career transition into tech
 
-Last Updated: December 2025
+Last Updated: May 2026.
+
 "The only way to learn cybersecurity is to do cybersecurity."
 
 ⭐ If you find my work helpful, consider giving my repositories a star! ⭐
